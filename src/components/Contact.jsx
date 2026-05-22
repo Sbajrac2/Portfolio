@@ -93,7 +93,7 @@ function Contact() {
       <AnimateOnScroll delay={0.2}>
         <div className="border-t border-border pt-8 flex flex-col sm:flex-row items-center justify-between gap-3 text-sm text-muted-foreground">
           <p>
-            Made by{" "}
+            {/* Made by{" "} */}
             <span className="font-medium text-foreground">{profile.name}</span>
           </p>
           <p>React · Tailwind CSS · Framer Motion</p>
