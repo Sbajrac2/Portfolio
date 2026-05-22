@@ -12,8 +12,8 @@ const projects = [
       "A free voice-powered web app for practicing allyship in real social situations — like a flight simulator for tough conversations. Users pick a realistic scenario, speak out loud, and get real-time AI coaching feedback.",
     tech: ["Next.js", "Gemini AI", "ElevenLabs", "Vercel"],
     date: "Mar 2026 – Present",
-    github: "#",    // <-- Add your GitHub link
-    demo: "#",      // <-- Add your live demo link
+    github: "https://github.com/Sbajrac2/wichacks26",    // <-- Add your GitHub link
+    demo: "https://allyco.vercel.app/",      // <-- Add your live demo link
     highlights: [
       "Mission-based scenarios with clear goals",
       "Real-time AI coaching via Gemini",
@@ -31,7 +31,7 @@ const projects = [
       "A mental health check-in app designed around calm, intentional self-reflection. Features mood check-in via a glowing orb, guided emotional check-in flows, and weather-aware themes that shift the UI between solar and ambient modes.",
     tech: ["React.js", "CSS Animations", "Local Storage"],
     date: "Mar 2026 – Present",
-    github: "#",
+    github: "https://github.com/Sbajrac2/Chaaya",
     demo: "#",
     highlights: [
       "Mood check-in via interactive glowing orb",
@@ -51,7 +51,7 @@ const projects = [
     tech: ["Unity", "Figma", "Tiled", "C#"],
     date: "Feb 2026 – Present",
     github: "#",
-    demo: "#",
+    demo: "https://www.linkedin.com/in/shrishtika/overlay/Project/1331582822/treasury/?profileId=ACoAAEBW8GEBUM2mrqSFErLmC7wwWWzpB_KptQY&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3B6RGoCGfZREix3iPmnA5%2BaQ%3D%3D",
     highlights: [
       "18 structured scenarios across 3 difficulty levels",
       "Targets Theory of Mind and Executive Functioning",
@@ -69,7 +69,7 @@ const projects = [
       "An accessible application supporting emotional recognition and learning for children with Autism Spectrum Disorder. Built from wireframes to a fully functional product with interactive lessons and progress tracking.",
     tech: ["React.js", "Front-End Dev", "Accessibility"],
     date: "Aug 2025 – Present",
-    github: "#",
+    github: "https://github.com/Sbajrac2/EmosenseApp",
     demo: "#",
     highlights: [
       "Student login with interactive lessons",
@@ -88,7 +88,7 @@ const projects = [
       "Immersive language learning platform for live conversational practice in virtual environments. Built at BigRed Hacks @ Cornell University with a cross-functional team.",
     tech: ["Next.js", "Tailwind CSS", "AI"],
     date: "Sep 2025",
-    github: "#",
+    github: "https://github.com/Sbajrac2/cornell_hackathon",
     demo: "#",
     highlights: [
       "World-map experience for roleplay scenarios",
@@ -107,7 +107,7 @@ const projects = [
       "Modern web platform for discovering and interacting with curated quotes, developed in collaboration with IBM as the project stakeholder for a Software Design course.",
     tech: ["React", "REST APIs", "Docker", "Playwright"],
     date: "Jan 2025 – May 2025",
-    github: "#",
+    github: "https://github.com/Sbajrac2/OZ-CSC-480-HCI-521-Spring-2025",
     demo: "#",
     highlights: [
       "Integrated REST APIs for dynamic content",
@@ -126,7 +126,7 @@ const projects = [
       "Adaptive course personalization platform with secure backend operations. Deployed a locally hosted Meta-Llama-3.1-8B model trained on educational datasets for personalized learning.",
     tech: ["Go", "Google OAuth", "Meta-Llama", "PostgreSQL"],
     date: "2024",
-    github: "#",
+    github: "https://github.com/Sbajrac2/AI-for-Accessible-Education",
     demo: "#",
     highlights: [
       "CRUD backend with Google OAuth",
@@ -145,7 +145,7 @@ const projects = [
       "Web-based tool for client Marquardt Switches Inc. that uses LSTM-based predictive modeling to monitor machine activity, detect performance deviations, and reduce downtime.",
     tech: ["LSTM", "Python", "Web", "Data Analytics"],
     date: "2024",
-    github: "#",
+    github: "https://github.com/Sbajrac2/CSC380-TEAM_C",
     demo: "#",
     highlights: [
       "LSTM-based predictive modeling",
