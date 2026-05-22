@@ -3,6 +3,7 @@
 // Edit the bio array in src/data/profile.js to update content
 // ============================================================
 
+import photo from "../assets/photo.jpg";
 import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 import profile from "../data/profile";
@@ -58,7 +59,8 @@ function About() {
           {/* Profile photo — uncomment <img> once you add src/assets/photo.jpg */}
           <AnimateOnScroll>
             <div className="w-full aspect-square max-w-xs mx-auto md:mx-0 rounded-2xl bg-secondary overflow-hidden flex items-center justify-center border border-border relative">
-             <img src="/src/assets/photo.jpg" alt={profile.name} className="w-full h-full object-cover" />
+             {/* <img src="/src/assets/photo.jpg" alt={profile.name} className="w-full h-full object-cover" /> */}
+             <img src={photo} alt={profile.name} className="w-full h-full object-cover" />
               <div className="text-center text-muted-foreground text-sm p-6">
                 {/* <div className="w-16 h-16 rounded-full bg-muted mx-auto mb-4 flex items-center justify-center">
                   <span className="text-2xl font-serif font-bold text-muted-foreground">
