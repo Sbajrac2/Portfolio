@@ -6,10 +6,10 @@
 const experience = [
   {
     id: 1,
-    role: "Resident Advisor (RA)",
+    role: "Resident Assistant (RA)",
     org: "SUNY Oswego",
     type: "Leadership",
-    date: "2024 – Present",
+    date: "2024 – 2026",
     description:
       "Support and mentor a floor of fellow students, create community events, and serve as a resource for academic and personal wellness. Half coder, half counselor.",
     highlights: ["Community building", "Peer mentorship", "Crisis support training"],
@@ -17,10 +17,10 @@ const experience = [
   },
   {
     id: 2,
-    role: "Organizer",
+    role: "Co-Director",
     org: "LakerHacks — SUNY Oswego's Hackathon",
     type: "Leadership",
-    date: "2024 – Present",
+    date: "2024 – 2026",
     description:
       "Help plan and run LakerHacks, SUNY Oswego's annual hackathon. Coordinate logistics, recruit participants, manage sponsors, and create an inclusive environment for student builders.",
     highlights: ["Event planning", "Sponsor outreach", "100+ student participants"],
@@ -28,10 +28,10 @@ const experience = [
   },
   {
     id: 3,
-    role: "Leader / Officer",
+    role: "President",
     org: "Women in Computing — SUNY Oswego",
     type: "Leadership",
-    date: "2023 – Present",
+    date: "2023 – 2026",
     description:
       "Support women and underrepresented students in computing by organizing workshops, networking events, and mentoring sessions. Advocate for inclusive spaces in tech.",
     highlights: ["Community advocacy", "Workshop facilitation", "Mentoring"],
@@ -61,7 +61,7 @@ const experience = [
   },
   {
     id: 6,
-    role: "Software Design Collaborator",
+    role: "Software Developer",
     org: "IBM Stakeholder Project",
     type: "Internship / Project",
     date: "Jan 2025 – May 2025",
