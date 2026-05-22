@@ -9,9 +9,9 @@ const profile = {
   school: "SUNY Oswego",
   major: "Computer Science",
   location: "Oswego, NY",
-  email: "shrishtika@example.com",          // <-- Replace with your email
+  email: "shrishtika.bajra@gmail.com",          // <-- Replace with your email
   linkedin: "https://www.linkedin.com/in/shrishtika/",
-  github: "https://github.com/shrishtika",    // <-- Replace with your GitHub
+  github: "https://github.com/sbajrac2",    // <-- Replace with your GitHub
   resume: "#",                                // <-- Replace with your resume link
 
   // Short bio used in the About section

@@ -99,7 +99,7 @@ function ProjectCard({ project, index }) {
               </a>
             )}
             {project.github === "#" && project.demo === "#" && (
-              <span className="italic opacity-40">Add links in projects.js</span>
+              <span className="italic opacity-40"> </span>
             )}
           </div>
         </div>
